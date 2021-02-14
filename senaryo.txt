@@ -1,0 +1,21 @@
+
+ Senaryo
+ Bir oyun yazmak istiyorsunuz. Bu yazýlým için backend kodlarýný C# ile geliþtirmeyi planlýyoruz.
+ Yeni üye, satýþ ve kampanya yönetimi yapýlmasý isteniyor. Nesnelere ait özellikleri istediðiniz 
+gibi verebilirsiniz.
+
+Gereksinimler
+
+1.     Oyuncularýn sisteme kayýt olabileceði, bilgilerini güncelleyebileceði, kayýtlarýný 
+silebileceði bir ortamý simule ediniz. Müþteri bilgilerinin doðruluðunu e-devlet sistemlerini 
+kullanarak doðrulama yapmak istiyoruz. (E-devlet sistemlerinde doðrulama TcNo, Ad, Soyad,
+ DoðumYýlý bilgileriyle yapýlýr. Bunu yapacak servisi simule etmeniz yeterlidir.)
+
+2.     Oyun satýþý yapýlabilecek satýþ ortamýný simule ediniz.
+( Yapýlan satýþlar oyuncu ile iliþkilendirilmelidir. Oyuncunun parametre olarak metotta
+ olmasýný kastediyorum.)
+
+3.     Sisteme yeni kampanya giriþi, kampanyanýn silinmesi ve güncellenmesi imkanlarýný simule 
+ediniz.
+
+4.     Satýþlarda kampanya entegrasyonunu simule ediniz.
